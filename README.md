@@ -1,7 +1,10 @@
 ![MasterHead](https://github.com/TonmoyRana/TonmoyRana/blob/main/tonmoyrana_httpss.mj.runjRAfITdZuPM_Isometric_interactive_illus_759a5a1f-305f-40b9-92d7-3c5157aafb41.png?raw=true)
 <h1 align="center">Hi 👋, I'm Tonmoy Rana</h1>
 <h3 align="center">Professional and Passionate Digital Artist and Creator, Video Editor,</h3>
-<img align="center" mix-blend-mode="screen" alt="Coding" width="400" src="Tonmoy Graphics Logo 3.jpg"/>
+<img class="vjfvj" align="center" style="mix-blend-mode:screen;" alt="Coding" width="400" src="Tonmoy Graphics Logo 3.jpg"/>
+<style>
+  
+</style>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoyrana&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoyrana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyrana" alt="tonmoyrana" /></a> </p>
