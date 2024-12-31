@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/TonmoyRana/TonmoyRana/blob/main/tonmoyrana_httpss.mj.runjRAfITdZuPM_Isometric_interactive_illus_759a5a1f-305f-40b9-92d7-3c5157aafb41.png?raw=true)
 <h1 align="center">Hi 👋, I'm Tonmoy Rana</h1>
-<h3 align="center">Professional and Passionate Digital Artist and Creator, Video Editor,</h3>
+<h3 align="center">Professional and Passionate Digital Artist and Creator, Video Editor & Developer</h3>
 <img align="center" alt="Coding" width="400" src="Tonmoy Graphics Logo 3.jpg"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoyrana&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoyrana" /> </p>
 
