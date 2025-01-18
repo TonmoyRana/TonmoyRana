@@ -8,19 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/tonmoygraphics" target="blank"><img src="https://img.shields.io/twitter/follow/tonmoygraphics?logo=twitter&style=for-the-badge" alt="tonmoygraphics" /></a> </p>
 
-- 🌱 I’m currently learning **Python, React JS,**
+- 🌱 I’m currently learning **Python, React JS, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/tonmoygraphics](https://www.behance.net/tonmoygraphics)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.behance.net/tonmoygraphics)
 
-- 📝 I regularly write articles on [https://tonmoygraphics20.blogspot.com](https://tonmoygraphics20.blogspot.com)
+- 📝 I regularly write articles on [Website](https://tonmoygraphics20.blogspot.com)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, React, SQL**
 
-- 📫 How to reach me **tonmoyrana080@gmail.com**
+- 📫 How to reach me [Here](mailto:tonmoyrana080@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tonmoyrana](https://www.linkedin.com/in/tonmoyrana)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/tonmoyrana)
 
 - ⚡ Fun fact **I believe My work is My identity & Creative Force**
+
+- 💪 _**Push Past Your Limits**_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
