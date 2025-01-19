@@ -47,4 +47,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" /></p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TonmoyRana/TonmoyRana/blob/output/github-contribution-grid-snake.svg)
