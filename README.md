@@ -2,12 +2,13 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tonmoyrana&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoyrana" /> </p>
 <h1 align="center">Hi 👋, I'm Tonmoy Rana</h1>
 <h3 align="center">Passionate Digital Artist and Creator, Video Editor & Developer</h3>
-<div align="center"><img alt="Coding" width="400" src="Tonmoy Graphics Logo 3.jpg"/></div>
-
-<div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyrana" alt="tonmoyrana" /></a> </div>
+<div align="center"><img alt="Coding" width="350" src="Tonmoy Graphics Logo 3.jpg"/></div>
+<br>
+<div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyrana&theme=onestar&margin-w=15" alt="tonmoyrana" /></a> </div>
 <br>
 <div align="center"><a href="https://twitter.com/tonmoygraphics" target="blank"><img src="Twitter Cover Page.jpg" alt="tonmoygraphics" /></a></div>
-
+<div align="left">
+  
 - 🌱 I’m currently learning **Python, React JS, Next.js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.behance.net/tonmoygraphics)
@@ -24,8 +25,11 @@
 
 - 💪 _**Push Past Your Limits**_
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div>
+<hr>
+
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://twitter.com/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tonmoyrana" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tonmoyrana"/></a>
 <a href="https://fb.com/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="tonmoygraphics" /></a>
@@ -34,9 +38,9 @@
 <a href="https://www.behance.net/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="tonmoygraphics"/></a>
 <a href="https://www.youtube.com/c/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="tonmoygraphics"/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<hr>
+<h3 align="center">Languages and Tools</h3>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,au,figma,vscode,atom,github,blender,discord" alt="Tools"/><br>
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,react,nodejs,tailwind,git,mysql" alt="Language"/>
 </div><br>
@@ -47,11 +51,20 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p> -->
+<hr>
+<h3 align="center">Stats</h3>
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
+<img align="left" src="https://github-readme-streak-stats-salesp07.vercel.app?user=tonmoyrana&theme=transparent&border_radius=8&border=3F7CAB&stroke=FFFFFF&ring=FFB133&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFB133&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9F9F9F" alt="streak stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
 </div>
 
+<br/>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
+</div>
+
+<hr>
+<h3 align="center">Contributions</h3>
 <div align="center">
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TonmoyRana/TonmoyRana/output/github-contribution-grid-snake.svg" />
 </div>
