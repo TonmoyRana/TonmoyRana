@@ -1,12 +1,12 @@
-![MasterHead](https://github.com/TonmoyRana/TonmoyRana/blob/main/tonmoyrana_httpss.mj.runjRAfITdZuPM_Isometric_interactive_illus_759a5a1f-305f-40b9-92d7-3c5157aafb41.png?raw=true)
+![MasterHead](/tonmoyrana_httpss.mj.runjRAfITdZuPM_Isometric_interactive_illus_759a5a1f-305f-40b9-92d7-3c5157aafb41.png)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tonmoyrana&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoyrana" /> </p>
 <h1 align="center">Hi 👋, I'm Tonmoy Rana</h1>
-<h3 align="center">Professional and Passionate Digital Artist and Creator, Video Editor & Developer</h3>
-<img align="center" alt="Coding" width="400" src="Tonmoy Graphics Logo 3.jpg"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoyrana&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoyrana" /> </p>
+<h3 align="center">Passionate Digital Artist and Creator, Video Editor & Developer</h3>
+<div align="center"><img alt="Coding" width="400" src="Tonmoy Graphics Logo 3.jpg"/></div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyrana" alt="tonmoyrana" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tonmoygraphics" target="blank"><img src="https://img.shields.io/twitter/follow/tonmoygraphics?logo=twitter&style=for-the-badge" alt="tonmoygraphics" /></a> </p>
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyrana" alt="tonmoyrana" /></a> </div>
+<br>
+<div align="center"><a href="https://twitter.com/tonmoygraphics" target="blank"><img src="Twitter Cover Page.jpg" alt="tonmoygraphics" /></a></div>
 
 - 🌱 I’m currently learning **Python, React JS, Next.js**
 
@@ -26,13 +26,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tonmoygraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonmoygraphics" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tonmoyrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonmoyrana" height="30" width="40" /></a>
-<a href="https://fb.com/tonmoygraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tonmoygraphics" height="30" width="40" /></a>
-<a href="https://instagram.com/tonmoygraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tonmoygraphics" height="30" width="40" /></a>
-<a href="https://dribbble.com/tonmoyrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tonmoyrana" height="30" width="40" /></a>
-<a href="https://www.behance.net/tonmoygraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tonmoygraphics" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tonmoygraphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tonmoygraphics" height="30" width="40" /></a>
+<a href="https://twitter.com/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://linkedin.com/in/tonmoyrana" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="tonmoyrana"/></a>
+<a href="https://fb.com/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="tonmoygraphics" /></a>
+<a href="https://instagram.com/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="tonmoygraphics"/></a>
+<a href="https://dribbble.com/tonmoyrana" target="blank"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="tonmoyrana"/></a>
+<a href="https://www.behance.net/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="tonmoygraphics"/></a>
+<a href="https://www.youtube.com/c/tonmoygraphics" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="tonmoygraphics"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,6 +44,7 @@
 <!-- <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact" alt="tonmoyrana" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en" alt="tonmoyrana" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" /></p>
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
