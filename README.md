@@ -4,7 +4,7 @@
 <h3 align="center">Passionate Digital Artist and Creator, Video Editor & Developer</h3>
 <div align="center"><img alt="Coding" width="400" src="Tonmoy Graphics Logo 3.jpg"/></div>
 
-<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyrana" alt="tonmoyrana" /></a> </div>
+<div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tonmoyrana" alt="tonmoyrana" /></a> </div>
 <br>
 <div align="center"><a href="https://twitter.com/tonmoygraphics" target="blank"><img src="Twitter Cover Page.jpg" alt="tonmoygraphics" /></a></div>
 
@@ -47,4 +47,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" /></p>
-![Snake animation](https://github.com/TonmoyRana/TonmoyRana/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img alt="snake eating my contributions" src="https://github.com/TonmoyRana/TonmoyRana/blob/output/github-contribution-grid-snake.svg">
+</div>
