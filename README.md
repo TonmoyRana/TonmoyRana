@@ -53,14 +53,18 @@
 </p> -->
 <hr>
 <h3 align="center">Stats</h3>
-<div>
-<img align="left" src="https://github-readme-streak-stats-salesp07.vercel.app?user=tonmoyrana&theme=transparent&border_radius=8&border=3F7CAB&stroke=FFFFFF&ring=FFB133&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFB133&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9F9F9F" alt="streak stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
 </div>
 
 <br/>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonmoyrana&show_icons=true&locale=en&layout=compact&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
+<img src="https://github-readme-stats.vercel.app/api?username=tonmoyrana&show_icons=true&locale=en&theme=transparent&title_color=fff&text_color=9f9f9f&icon_color=ffb133&border_color=3f7cab&border_radius=8" alt="tonmoyrana" />
+</div>
+
+<br/>
+<div align=center>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app?user=tonmoyrana&theme=transparent&border_radius=8&border=3F7CAB&stroke=FFFFFF&ring=FFB133&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFB133&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9F9F9F" alt="streak stats"/>
 </div>
 
 <hr>
