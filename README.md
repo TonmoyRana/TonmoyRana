@@ -41,8 +41,8 @@
 <hr>
 <h3 align="center">Languages and Tools</h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,au,figma,vscode,atom,github,blender,discord" alt="Tools"/><br>
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,react,nodejs,tailwind,git,mysql" alt="Language"/>
+<img src="https://skillicons.dev/icons?i=ae,ai,ps,pr,au,figma,vscode,sublime,postman,atom,github,wordpress,blender,discord,stackoverflow" alt="Tools"/><br>
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,javascript,react,nodejs,npm,tailwind,git,mysql,vite" alt="Language"/>
 </div><br>
 <!-- <p align="left" class="skills"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a>
